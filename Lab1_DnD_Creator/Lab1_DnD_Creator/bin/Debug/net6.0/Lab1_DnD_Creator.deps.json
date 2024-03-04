@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab1_DnD_Creator/1.0.0": {
+        "runtime": {
+          "Lab1_DnD_Creator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab1_DnD_Creator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
