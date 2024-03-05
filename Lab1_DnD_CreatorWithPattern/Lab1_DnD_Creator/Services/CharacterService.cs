@@ -15,18 +15,21 @@ namespace Lab1_DnD_Creator.Services
             InitializeCharacters();
         }
 
-        public Character GetCharacterByClassName(string className)
+        public async Task<Character> GetCharacterByClassName(string className)
         {
             if (_characters.TryGetValue(className, out var characterPrototype))
             {
-                var characterCopy = characterPrototype.Clone();
-                return (Character)characterCopy;
+                var characterCopy = (Character)characterPrototype.Clone();
+
+                characterCopy.Name = (await CharacterGenerator.GetCharacterNamesAsync()).Names[0];
+
+                return characterCopy;
             }
 
             throw new ArgumentException($"Unknown character class: {className}");
         }
 
-        private async void InitializeCharacters()
+        private void InitializeCharacters()
         {
             _characters["Paladin"] = new Paladin();
             _characters["Rogue"] = new Rogue();
@@ -42,8 +45,6 @@ namespace Lab1_DnD_Creator.Services
                 {
                     character.LvlUp();
                 }
-
-                character.Name = (await CharacterGenerator.GetCharacterNamesAsync()).Names[0];
             }
         }
     }

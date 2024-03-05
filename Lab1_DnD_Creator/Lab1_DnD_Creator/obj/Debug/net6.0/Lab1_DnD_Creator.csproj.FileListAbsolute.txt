@@ -36,3 +36,45 @@ E:\Вуз\3 курс\2 семестр\ооап\Lab1_DnD_Creator\Lab1_DnD_Creator
 E:\Вуз\3 курс\2 семестр\ооап\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\paladin-highlight.png
 E:\Вуз\3 курс\2 семестр\ооап\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\rogue.png
 E:\Вуз\3 курс\2 семестр\ооап\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\rogue-highlight.png
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\barbarian.png
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\barbarian-highlight.png
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\charlist.webp
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\mage (3).png
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\mage.png
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\mage-highlight.png
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\necromancer.png
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\necromancer-highlight.png
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\paladin.png
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\paladin-highlight.png
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\rogue.png
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\wwwroot\images\rogue-highlight.png
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\appsettings.Development.json
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\appsettings.json
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\Lab1_DnD_Creator.staticwebassets.runtime.json
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\Lab1_DnD_Creator.exe
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\Lab1_DnD_Creator.deps.json
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\Lab1_DnD_Creator.runtimeconfig.json
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\Lab1_DnD_Creator.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\bin\Debug\net6.0\Lab1_DnD_Creator.pdb
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\Lab1_DnD_Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\Lab1_DnD_Creator.AssemblyInfoInputs.cache
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\Lab1_DnD_Creator.AssemblyInfo.cs
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\Lab1_DnD_Creator.csproj.CoreCompileInputs.cache
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\Lab1_DnD_Creator.MvcApplicationPartsAssemblyInfo.cache
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\Lab1_DnD_Creator.RazorAssemblyInfo.cache
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\Lab1_DnD_Creator.RazorAssemblyInfo.cs
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\staticwebassets\msbuild.Lab1_DnD_Creator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab1_DnD_Creator.props
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab1_DnD_Creator.props
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab1_DnD_Creator.props
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\staticwebassets.build.json
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\staticwebassets.development.json
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\scopedcss\bundle\Lab1_DnD_Creator.styles.css
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\scopedcss\projectbundle\Lab1_DnD_Creator.bundle.scp.css
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\Lab1_DnD_Creator.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\refint\Lab1_DnD_Creator.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\Lab1_DnD_Creator.pdb
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\Lab1_DnD_Creator.genruntimeconfig.cache
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\Lab1_DnD_Creator\Lab1_DnD_Creator\obj\Debug\net6.0\ref\Lab1_DnD_Creator.dll

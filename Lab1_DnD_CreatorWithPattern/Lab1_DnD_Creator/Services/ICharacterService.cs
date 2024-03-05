@@ -4,6 +4,6 @@ namespace Lab1_DnD_Creator.Services
 {
     public interface ICharacterService
     {
-        Character GetCharacterByClassName(string className);
+        Task<Character> GetCharacterByClassName(string className);
     }
 }
