@@ -18,9 +18,9 @@ namespace Lab1_DnD_Creator.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetCharacter(string parameter)
+        public async Task<IActionResult> GetCharacter(string parameter)
         {
-            Character character = _characterService.GetCharacterByClassName(parameter);
+            Character character = await _characterService.GetCharacterByClassName(parameter);
             return View("Character", character);
         }
 
