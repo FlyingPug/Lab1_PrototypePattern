@@ -1,0 +1,22 @@
+﻿<Window x:Class="Lab2Notebook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	    xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+
+        xmlns:local="clr-namespace:Lab2Notebook"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+	KeyDown="Window_KeyDown">
+    <Grid>
+        <Canvas Margin="10,10,10,10"
+	x:Name="TextCanvas"
+	KeyDown="Canvas_KeyDown">
+            <xctk:ColorPicker SelectedColor="{Binding MyColor}" Height="26" Width="124" Canvas.Left="646" Canvas.Top="5" HorizontalAlignment="Left" VerticalAlignment="Center" SelectedColorChanged="ColorPicker_SelectedColorChanged"/>
+            <xctk:IntegerUpDown x:Name="myUpDownControl" Text="12" CultureInfo="ru-RU" Height="24" RenderTransformOrigin="-0.548,0.958" Width="117" Canvas.Left="510" Canvas.Top="7" HorizontalAlignment="Center" VerticalAlignment="Top" />
+            <CheckBox x:Name="IsBoldCheckBox" Content="Bold" RenderTransformOrigin="0.091,0.698" Checked="CheckBox_Checked" Canvas.Left="390" Canvas.Top="11"/>
+            <Label Content="Size" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="465" Canvas.Top="5"/>
+        </Canvas>
+    </Grid>
+</Window>
