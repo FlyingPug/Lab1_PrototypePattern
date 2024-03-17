@@ -38,3 +38,43 @@ E:\Вуз\3 курс\2 семестр\ооап\lab1\Lab1_PrototypePattern\lab2\L
 E:\Вуз\3 курс\2 семестр\ооап\lab1\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
 E:\Вуз\3 курс\2 семестр\ооап\lab1\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
 E:\Вуз\3 курс\2 семестр\ооап\lab1\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook.csproj.CopyComplete
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\Lab2Notebook.exe
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\Lab2Notebook.deps.json
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\Lab2Notebook.runtimeconfig.json
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\Lab2Notebook.runtimeconfig.dev.json
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\Lab2Notebook.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\Lab2Notebook.pdb
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\bin\Debug\net5.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook.csproj.AssemblyReference.cache
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\App.g.cs
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook_MarkupCompile.cache
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook_MarkupCompile.lref
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\MainWindow.baml
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook.g.resources
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook.AssemblyInfoInputs.cache
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook.AssemblyInfo.cs
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook.csproj.CoreCompileInputs.cache
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook.csproj.CopyComplete
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\refint\Lab2Notebook.dll
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook.pdb
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\Lab2Notebook.genruntimeconfig.cache
+C:\College\my\3_course\2 семестр\ooap\Lab1_PrototypePattern\lab2\Lab2Notebook\Lab2Notebook\obj\Debug\net5.0-windows\ref\Lab2Notebook.dll
