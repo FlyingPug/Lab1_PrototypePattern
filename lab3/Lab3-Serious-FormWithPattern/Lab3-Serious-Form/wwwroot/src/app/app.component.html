@@ -1,0 +1,69 @@
+
+<div class="container">
+  <!--<div class="navbar" *ngIf="authService.isAuthorized">
+    <a routerLink="/">Домашняя</a>
+    <a routerLink="/sales">Объявления</a>
+  </div>
+    <router-outlink></router-outlink>
+    -->
+
+  <div class="content">
+
+    <form>
+      <mat-form-field class="details-form__form-field">
+        <label class="details-form__form-field__label">
+          Email
+        </label>
+        <input type="email"
+               [(ngModel)]="reviewForm.email"
+               required
+               id="email"
+               name="email"
+               #email="ngModel"/>
+        <div *ngIf="email.errors?.['required']">
+          Email is required.
+        </div>
+
+        <label class="details-form__form-field__label">
+          Phone
+        </label>
+        <input type="tel"
+               [(ngModel)]="reviewForm.phoneNumber"
+               required
+               id="phone"
+               name="phone"
+               #phone="ngModel"/>
+        <div *ngIf="phone.errors?.['required']">
+          Phone is required.
+        </div>
+        <label class="details-form__form-field__label">
+          Name
+        </label>
+        <input type="text"
+               [(ngModel)]="reviewForm.name"
+               required
+               id="name"
+               name="name"
+               #name="ngModel"/>
+        <div *ngIf="name.errors?.['required']">
+          Name is required.
+        </div>
+        <label class="details-form__form-field__label">
+          Message
+        </label>
+        <input type="text"
+               [(ngModel)]="reviewForm.message"
+               required
+               id="message"
+               name="message"
+               #message="ngModel"/>
+        <div *ngIf="message.errors?.['required']">
+          Message is required.
+        </div>
+      </mat-form-field>
+      <div style="margin: auto 25%">
+      <button (click)="sendReview()" mat-raised-primary-button color="primary">Send review</button>
+    </div>
+  </form>
+</div>
+</div>

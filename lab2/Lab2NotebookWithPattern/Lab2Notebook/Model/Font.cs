@@ -7,9 +7,9 @@ namespace Lab2Notebook.Model
 {
     public sealed class Font
     {
-        public int FontSize { get; set; }
-        public Color FontColor { get; set; }
-        public bool Bold { get; set; }
+        public int FontSize { get; }
+        public Color FontColor { get; }
+        public bool Bold { get; }
 
         public Font(int fontSize, Color color, bool bold)
         {
