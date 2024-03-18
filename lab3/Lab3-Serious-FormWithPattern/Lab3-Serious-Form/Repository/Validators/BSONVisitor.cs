@@ -12,10 +12,10 @@ namespace Lab3_Serious_Form.Repository.Validators
         {
             string pattern = @"(\$where|\{.*?\$\w+\})";
             Regex regex = new Regex(pattern);
-            if (!regex.IsMatch(review.Email) ||
-                !regex.IsMatch(review.Name) ||
-                !regex.IsMatch(review.Message) ||
-                !regex.IsMatch(review.PhoneNumber)) throw new IncorrectEmail("Попытка NoSql инъекции");
+            if (regex.IsMatch(review.Email) ||
+                regex.IsMatch(review.Name) ||
+                regex.IsMatch(review.Message) ||
+                regex.IsMatch(review.PhoneNumber)) throw new IncorrectEmail("Попытка NoSql инъекции");
         }
     }
 }

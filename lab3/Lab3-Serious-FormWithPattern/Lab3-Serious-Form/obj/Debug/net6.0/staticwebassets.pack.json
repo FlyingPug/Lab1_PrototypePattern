@@ -1,0 +1,133 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\.editorconfig",
+      "PackagePath": "staticwebassets\\.editorconfig"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\.gitignore",
+      "PackagePath": "staticwebassets\\.gitignore"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\angular.json",
+      "PackagePath": "staticwebassets\\angular.json"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\dist\\lab3\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\favicon.ico",
+      "PackagePath": "staticwebassets\\dist\\lab3\\browser\\favicon.ico"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\index.html",
+      "PackagePath": "staticwebassets\\dist\\lab3\\browser\\index.html"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\main-F6A6BCJA.js",
+      "PackagePath": "staticwebassets\\dist\\lab3\\browser\\main-F6A6BCJA.js"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\polyfills-BJX5WH5B.js",
+      "PackagePath": "staticwebassets\\dist\\lab3\\browser\\polyfills-BJX5WH5B.js"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\styles-FEWCPV34.css",
+      "PackagePath": "staticwebassets\\dist\\lab3\\browser\\styles-FEWCPV34.css"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\package-lock.json",
+      "PackagePath": "staticwebassets\\package-lock.json"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\package.json",
+      "PackagePath": "staticwebassets\\package.json"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.component.html",
+      "PackagePath": "staticwebassets\\src\\app\\app.component.html"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.component.scss",
+      "PackagePath": "staticwebassets\\src\\app\\app.component.scss"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.component.ts",
+      "PackagePath": "staticwebassets\\src\\app\\app.component.ts"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.config.ts",
+      "PackagePath": "staticwebassets\\src\\app\\app.config.ts"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.routes.ts",
+      "PackagePath": "staticwebassets\\src\\app\\app.routes.ts"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\enviroment\\enviroment.developer.ts",
+      "PackagePath": "staticwebassets\\src\\app\\enviroment\\enviroment.developer.ts"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\models\\review.ts",
+      "PackagePath": "staticwebassets\\src\\app\\models\\review.ts"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\services\\review-service.ts",
+      "PackagePath": "staticwebassets\\src\\app\\services\\review-service.ts"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\assets\\.gitkeep",
+      "PackagePath": "staticwebassets\\src\\assets\\.gitkeep"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\favicon.ico",
+      "PackagePath": "staticwebassets\\src\\favicon.ico"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\index.html",
+      "PackagePath": "staticwebassets\\src\\index.html"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\main.ts",
+      "PackagePath": "staticwebassets\\src\\main.ts"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\styles.scss",
+      "PackagePath": "staticwebassets\\src\\styles.scss"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\tsconfig.app.json",
+      "PackagePath": "staticwebassets\\tsconfig.app.json"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\tsconfig.json",
+      "PackagePath": "staticwebassets\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\tsconfig.spec.json",
+      "PackagePath": "staticwebassets\\tsconfig.spec.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Lab3-Serious-Form.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Lab3-Serious-Form.props",
+      "PackagePath": "build\\Lab3-Serious-Form.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab3-Serious-Form.props",
+      "PackagePath": "buildMultiTargeting\\Lab3-Serious-Form.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Lab3-Serious-Form.props",
+      "PackagePath": "buildTransitive\\Lab3-Serious-Form.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

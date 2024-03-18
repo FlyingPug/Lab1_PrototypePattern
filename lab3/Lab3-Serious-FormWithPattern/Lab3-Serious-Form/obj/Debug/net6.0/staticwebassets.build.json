@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O3fnA3B5QMwqpu7rXCMeBAUYV4bEds6RZBpCqJ3kENI=",
+  "Hash": "zWhpXY600FU58g6WZltazXWhXIuHHUdx9gddRqFqvbQ=",
   "Source": "Lab3-Serious-Form",
   "BasePath": "_content/Lab3-Serious-Form",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Lab3-Serious-Form\\wwwroot",
       "Source": "Lab3-Serious-Form",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\.editorconfig",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\.editorconfig",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": ".editorconfig",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\.editorconfig"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\.gitignore",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\.gitignore",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": ".gitignore",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\.gitignore"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\angular.json",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\angular.json",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "angular.json",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\angular.json"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\3rdpartylicenses.txt",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\3rdpartylicenses.txt",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "dist/lab3/3rdpartylicenses.txt",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\lab3\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\favicon.ico",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\favicon.ico",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "dist/lab3/browser/favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\lab3\\browser\\favicon.ico"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\index.html",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\index.html",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "dist/lab3/browser/index.html",
       "AssetKind": "All",
@@ -119,12 +119,12 @@
       "OriginalItemSpec": "wwwroot\\dist\\lab3\\browser\\index.html"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\main-TFNUXKXW.js",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\main-F6A6BCJA.js",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
-      "RelativePath": "dist/lab3/browser/main-TFNUXKXW.js",
+      "RelativePath": "dist/lab3/browser/main-F6A6BCJA.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\dist\\lab3\\browser\\main-TFNUXKXW.js"
+      "OriginalItemSpec": "wwwroot\\dist\\lab3\\browser\\main-F6A6BCJA.js"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\polyfills-RT5I6R6G.js",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\polyfills-BJX5WH5B.js",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
-      "RelativePath": "dist/lab3/browser/polyfills-RT5I6R6G.js",
+      "RelativePath": "dist/lab3/browser/polyfills-BJX5WH5B.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\dist\\lab3\\browser\\polyfills-RT5I6R6G.js"
+      "OriginalItemSpec": "wwwroot\\dist\\lab3\\browser\\polyfills-BJX5WH5B.js"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\styles-FEWCPV34.css",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\dist\\lab3\\browser\\styles-FEWCPV34.css",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "dist/lab3/browser/styles-FEWCPV34.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\lab3\\browser\\styles-FEWCPV34.css"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\package.json",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\package.json",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "package.json",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\package.json"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\package-lock.json",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\package-lock.json",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "package-lock.json",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\package-lock.json"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\README.md",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\README.md",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "README.md",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\README.md"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.component.html",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.component.html",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/app/app.component.html",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\src\\app\\app.component.html"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.component.scss",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.component.scss",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/app/app.component.scss",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\src\\app\\app.component.scss"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.component.ts",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.component.ts",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/app/app.component.ts",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\src\\app\\app.component.ts"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.config.ts",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.config.ts",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/app/app.config.ts",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\src\\app\\app.config.ts"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.routes.ts",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\app.routes.ts",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/app/app.routes.ts",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\src\\app\\app.routes.ts"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\app\\enviroment\\enviroment.developer.ts",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\enviroment\\enviroment.developer.ts",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/app/enviroment/enviroment.developer.ts",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\src\\app\\enviroment\\enviroment.developer.ts"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\app\\models\\review.ts",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\models\\review.ts",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/app/models/review.ts",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\src\\app\\models\\review.ts"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\app\\services\\review-service.ts",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\app\\services\\review-service.ts",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/app/services/review-service.ts",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\src\\app\\services\\review-service.ts"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\assets\\.gitkeep",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\assets\\.gitkeep",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/assets/.gitkeep",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\src\\assets\\.gitkeep"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\favicon.ico",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\favicon.ico",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/favicon.ico",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\src\\favicon.ico"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\index.html",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\index.html",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/index.html",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\src\\index.html"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\main.ts",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\main.ts",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/main.ts",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\src\\main.ts"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\src\\styles.scss",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\src\\styles.scss",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "src/styles.scss",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\src\\styles.scss"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\tsconfig.app.json",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\tsconfig.app.json",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "tsconfig.app.json",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\tsconfig.app.json"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\tsconfig.json",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\tsconfig.json",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "tsconfig.json",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\tsconfig.json"
     },
     {
-      "Identity": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\tsconfig.spec.json",
+      "Identity": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\tsconfig.spec.json",
       "SourceId": "Lab3-Serious-Form",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\wwwroot\\",
+      "ContentRoot": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\wwwroot\\",
       "BasePath": "_content/Lab3-Serious-Form",
       "RelativePath": "tsconfig.spec.json",
       "AssetKind": "All",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n7hF86cc9KUS0nB+iB3Bb5OiMfVpooct3qe2Kzb9jzx0BIv9OukBbFdUW/rpeB9qccdjjpr6k/Uo27KaHWsYaA==",
+  "dgSpecHash": "2aEL4EQuID8efQ+sPNV9aLXuwvaYlm1UfooKnyVWexlN88PE41NcT+xQlythI5wxeMoUDX0ZUcWdZ77/6VfXGQ==",
   "success": true,
-  "projectFilePath": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\Lab3-Serious-Form.csproj",
+  "projectFilePath": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-Form\\Lab3-Serious-Form\\Lab3-Serious-Form.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dron\\.nuget\\packages\\anglesharp\\1.0.7\\anglesharp.1.0.7.nupkg.sha512",
     "C:\\Users\\Dron\\.nuget\\packages\\anglesharp.css\\1.0.0-alpha-99\\anglesharp.css.1.0.0-alpha-99.nupkg.sha512",

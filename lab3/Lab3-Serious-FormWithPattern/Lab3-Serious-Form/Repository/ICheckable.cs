@@ -1,4 +1,6 @@
-﻿namespace Lab3_Serious_Form.Repository
+﻿using Lab3_Serious_Form.Repository.Validators;
+
+namespace Lab3_Serious_Form.Repository
 {
     // элемент, который будет смотреть как реализовать тип проверики
     public interface ICheckable
