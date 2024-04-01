@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\Lab3-Serious-Form.csproj": {}
+    "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\Lab3-Serious-Form.csproj": {}
   },
   "projects": {
-    "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\Lab3-Serious-Form.csproj": {
+    "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\Lab3-Serious-Form.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\Lab3-Serious-Form.csproj",
+        "projectUniqueName": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\Lab3-Serious-Form.csproj",
         "projectName": "Lab3-Serious-Form",
-        "projectPath": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\Lab3-Serious-Form.csproj",
+        "projectPath": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\Lab3-Serious-Form.csproj",
         "packagesPath": "C:\\Users\\Dron\\.nuget\\packages\\",
-        "outputPath": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\obj\\",
+        "outputPath": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab3\\Lab3-Serious-FormWithPattern\\Lab3-Serious-Form\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Dron\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

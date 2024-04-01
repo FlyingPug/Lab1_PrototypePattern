@@ -1,0 +1,34 @@
+﻿<Window x:Class="ImageViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageViewer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="516" Width="730">
+    <Canvas Background="#FF120D14" Margin="0,0,-45,-32">
+        <Image x:Name="ImageControl" HorizontalAlignment="Center" Height="379" VerticalAlignment="Center" Width="410" RenderTransformOrigin="0.5,0.5" OpacityMask="White" Source="/1rgihGkj4Do.jpg" Grid.Column="1" Canvas.Left="51" Canvas.Top="32">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.252"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <ListBox x:Name="ListOfImages" HorizontalAlignment="Center" Width="153" Background="#FF2E2E39" SelectionChanged="ListBox_SelectionChanged" Foreground="White" d:ItemsSource="{d:SampleData ItemCount=5}" Grid.Column="1" Canvas.Left="519" Height="416" VerticalAlignment="Top"/>
+        <Button x:Name="ChooseFolderButton" Content="Open folder" HorizontalAlignment="Left" VerticalAlignment="Top" Height="34" Width="153" Click="Button_Click_1" BorderBrush="#FFB7C2D4" Background="#FFB7C2D4" Grid.Column="1" Canvas.Left="519" Canvas.Top="421"/>
+        <Button x:Name="rightButton" Content="&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Center" Height="212" Width="18" Click="rightButton_Click" Grid.Column="1" BorderBrush="#00707070" Canvas.Left="482" Canvas.Top="127">
+            <Button.Background>
+                <ImageBrush ImageSource="/triangle.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="leftButton" Content="&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Center" Height="212" Width="18" Click="LeftButton_Click" Grid.Column="1" BorderBrush="#00707070" Canvas.Left="23" Canvas.Top="127">
+            <Button.Background>
+                <ImageBrush ImageSource="/triangle-left2.png"/>
+            </Button.Background>
+        </Button>
+    </Canvas>
+
+</Window>

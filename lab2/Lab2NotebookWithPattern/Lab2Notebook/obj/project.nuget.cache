@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "iZF6w1DmZ2IzG8QMfd4SXLjwwmydLcwbVfwWf9dk7xOxFcWQuM4clrJUxQjAkjiSNZxZQZcn22PvB0j7nhTuxA==",
+  "dgSpecHash": "nW1xnlsfm4oktVq91S2k4Pwgdho+hhfM6Y9TlDOGCejPDnrHYwRXYkobzJP+mbSBGA7cJiQV7HdYjePxrm53qQ==",
   "success": true,
-  "projectFilePath": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab2\\Lab2NotebookWithPattern\\Lab2Notebook\\Lab2Notebook.csproj",
+  "projectFilePath": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab2\\Lab2NotebookWithPattern\\Lab2Notebook\\Lab2Notebook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dron\\.nuget\\packages\\extended.wpf.toolkit\\4.6.0\\extended.wpf.toolkit.4.6.0.nupkg.sha512",
-    "C:\\Users\\Dron\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Dron\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dron\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
     "C:\\Users\\Dron\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Dron\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\Dron\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dron\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
