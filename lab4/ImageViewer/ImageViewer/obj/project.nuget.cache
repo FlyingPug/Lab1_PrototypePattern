@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bE+Ss88P+tCz4AHGoiAfuNbvSFeaZmzo64EAlB8nE3b9i6CdLLT0uEBVD3Zty1CVvIMnKURFdwDcC/WRVL4wXQ==",
+  "dgSpecHash": "0oCyMJXZkFvlreEyD5E7mdeugLBC/HObGVWAsvVEK/+9B1t94AGrrLgjqQFhxtY7/1++6j1HxskllhcLZ0Qjpw==",
   "success": true,
-  "projectFilePath": "E:\\Вуз\\3 курс\\2 семестр\\ооап\\lab1\\Lab1_PrototypePattern\\lab4\\ImageViewer\\ImageViewer\\ImageViewer.csproj",
+  "projectFilePath": "C:\\College\\my\\3_course\\2 семестр\\ooap\\Lab1_PrototypePattern\\lab4\\ImageViewer\\ImageViewer\\ImageViewer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dron\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.5\\microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
     "C:\\Users\\Dron\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.5\\microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512"
